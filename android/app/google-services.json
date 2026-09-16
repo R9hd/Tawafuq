@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785288390014",
+    "project_id": "tawafuq-679f6",
+    "storage_bucket": "tawafuq-679f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785288390014:android:3931d012f46d7759afbf2f",
+        "android_client_info": {
+          "package_name": "com.example.tawafuq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4eEIizXev1YPFaYf-KDN2qkuCIr0Kp90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
